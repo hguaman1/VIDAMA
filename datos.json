@@ -1,266 +1,266 @@
 [
    {
-      "partido":"PP",
-      "mediaAutoubicacion":7.09,
-      "votantes":2509,
+      "nombre":"PP",
+      "nota":7.09,
+      "posicion":2509,
       "nsnc":302
    },
    {
-      "partido":"PSOE",
-      "mediaAutoubicacion":3.81,
-      "votantes":2330,
+      "nombre":"PSOE",
+      "nota":3.81,
+      "posicion":2330,
       "nsnc":260
    },
    {
-      "partido":"IU",
-      "mediaAutoubicacion":3,
-      "votantes":518,
+      "nombre":"IU",
+      "nota":3,
+      "posicion":518,
       "nsnc":14
    },
    {
-      "partido":"UPyD",
-      "mediaAutoubicacion":4.66,
-      "votantes":35,
+      "nombre":"UPyD",
+      "nota":4.66,
+      "posicion":35,
       "nsnc":1
    },
    {
-      "partido":"Ciudadanos",
-      "mediaAutoubicacion":5.25,
-      "votantes":1869,
+      "nombre":"Ciudadanos",
+      "nota":5.25,
+      "posicion":1869,
       "nsnc":160
    },
    {
-      "partido":"Podemos",
-      "mediaAutoubicacion":3.14,
-      "votantes":1751,
+      "nombre":"Podemos",
+      "nota":3.14,
+      "posicion":1751,
       "nsnc":117
    },
    {
-      "partido":"Convergència (CDC)",
-      "mediaAutoubicacion":4.96,
-      "votantes":192,
+      "nombre":"Convergència (CDC)",
+      "nota":4.96,
+      "posicion":192,
       "nsnc":16
    },
    {
-      "partido":"ERC",
-      "mediaAutoubicacion":2.92,
-      "votantes":282,
+      "nombre":"ERC",
+      "nota":2.92,
+      "posicion":282,
       "nsnc":8
    },
    {
-      "partido":"ICV",
-      "mediaAutoubicacion":3.33,
-      "votantes":57,
+      "nombre":"ICV",
+      "nota":3.33,
+      "posicion":57,
       "nsnc":1
    },
    {
-      "partido":"Unió",
-      "mediaAutoubicacion":4.94,
-      "votantes":12,
+      "nombre":"Unió",
+      "nota":4.94,
+      "posicion":12,
       "nsnc":1
    },
    {
-      "partido":"PNV",
-      "mediaAutoubicacion":4.96,
-      "votantes":113,
+      "nombre":"PNV",
+      "nota":4.96,
+      "posicion":113,
       "nsnc":14
    },
    {
-      "partido":"EH Bildu",
-      "mediaAutoubicacion":2.49,
-      "votantes":125,
+      "nombre":"EH Bildu",
+      "nota":2.49,
+      "posicion":125,
       "nsnc":4
    },
    {
-      "partido":"Geroa Bai",
-      "mediaAutoubicacion":3.13,
-      "votantes":14,
+      "nombre":"Geroa Bai",
+      "nota":3.13,
+      "posicion":14,
       "nsnc":1
    },
    {
-      "partido":"UPN",
-      "mediaAutoubicacion":6.57,
-      "votantes":4,
+      "nombre":"UPN",
+      "nota":6.57,
+      "posicion":4,
       "nsnc":0
    },
    {
-      "partido":"BNG",
-      "mediaAutoubicacion":3.17,
-      "votantes":19,
+      "nombre":"BNG",
+      "nota":3.17,
+      "posicion":19,
       "nsnc":1
    },
    {
-      "partido":"Anova",
-      "mediaAutoubicacion":2.12,
-      "votantes":5,
+      "nombre":"Anova",
+      "nota":2.12,
+      "posicion":5,
       "nsnc":0
    },
    {
-      "partido":"CC",
-      "mediaAutoubicacion":5.38,
-      "votantes":14,
+      "nombre":"CC",
+      "nota":5.38,
+      "posicion":14,
       "nsnc":4
    },
    {
-      "partido":"Nueva Canarias",
-      "mediaAutoubicacion":4,
-      "votantes":4,
+      "nombre":"Nueva Canarias",
+      "nota":4,
+      "posicion":4,
       "nsnc":0
    },
    {
-      "partido":"Compromís",
-      "mediaAutoubicacion":3.05,
-      "votantes":52,
+      "nombre":"Compromís",
+      "nota":3.05,
+      "posicion":52,
       "nsnc":2
    },
    {
-      "partido":"FAC (Foro de Ciudadanos)",
-      "mediaAutoubicacion":4.5,
-      "votantes":2,
+      "nombre":"FAC (Foro de Ciudadanos)",
+      "nota":4.5,
+      "posicion":2,
       "nsnc":0
    },
    {
-      "partido":"PAR (Partido Aragonés)",
-      "mediaAutoubicacion":5.81,
-      "votantes":4,
+      "nombre":"PAR (nombre Aragonés)",
+      "nota":5.81,
+      "posicion":4,
       "nsnc":0
    },
    {
-      "partido":"CHA",
-      "mediaAutoubicacion":3,
-      "votantes":1,
+      "nombre":"CHA",
+      "nota":3,
+      "posicion":1,
       "nsnc":1
    },
    {
-      "partido":"PSM-Entesa/MES",
-      "mediaAutoubicacion":3.33,
-      "votantes":6,
+      "nombre":"PSM-Entesa/MES",
+      "nota":3.33,
+      "posicion":6,
       "nsnc":0
    },
    {
-      "partido":"PI (Proposta per les Illes)",
-      "mediaAutoubicacion":4.5,
-      "votantes":2,
+      "nombre":"PI (Proposta per les Illes)",
+      "nota":4.5,
+      "posicion":2,
       "nsnc":0
    },
    {
-      "partido":"VOX",
-      "mediaAutoubicacion":7.73,
-      "votantes":25,
+      "nombre":"VOX",
+      "nota":7.73,
+      "posicion":25,
       "nsnc":0
    },
    {
-      "partido":"PACMA",
-      "mediaAutoubicacion":4,
-      "votantes":30,
+      "nombre":"PACMA",
+      "nota":4,
+      "posicion":30,
       "nsnc":11
    },
    {
-      "partido":"Los Verdes",
-      "mediaAutoubicacion":3.75,
-      "votantes":15,
+      "nombre":"Los Verdes",
+      "nota":3.75,
+      "posicion":15,
       "nsnc":8
    },
    {
-      "partido":"Partido Pirata",
-      "mediaAutoubicacion":3.13,
-      "votantes":1,
+      "nombre":"nombre Pirata",
+      "nota":3.13,
+      "posicion":1,
       "nsnc":0
    },
    {
-      "partido":"Escaños en Blanco",
-      "mediaAutoubicacion":3.6,
-      "votantes":4,
+      "nombre":"Escaños en Blanco",
+      "nota":3.6,
+      "posicion":4,
       "nsnc":1
    },
    {
-      "partido":"España 2000",
-      "mediaAutoubicacion":5,
-      "votantes":2,
+      "nombre":"España 2000",
+      "nota":5,
+      "posicion":2,
       "nsnc":0
    },
    {
-      "partido":"Ahora en Común",
-      "mediaAutoubicacion":2,
-      "votantes":6,
+      "nombre":"Ahora en Común",
+      "nota":2,
+      "posicion":6,
       "nsnc":0
    },
    {
-      "partido":"(En Cataluña) En Comú Podem/Podem en Comú",
-      "mediaAutoubicacion":5,
-      "votantes":0,
+      "nombre":"(En Cataluña) En Comú Podem/Podem en Comú",
+      "nota":5,
+      "posicion":0,
       "nsnc":0
    },
    {
-      "partido":"Unidad Popular",
-      "mediaAutoubicacion":3.48,
-      "votantes":2,
+      "nombre":"Unidad Popular",
+      "nota":3.48,
+      "posicion":2,
       "nsnc":0
    },
    {
-      "partido":"(En Galicia) En Marea",
-      "mediaAutoubicacion":2.49,
-      "votantes":4,
+      "nombre":"(En Galicia) En Marea",
+      "nota":2.49,
+      "posicion":4,
       "nsnc":0
    },
    {
-      "partido":"Partido Cannabis",
-      "mediaAutoubicacion":1.81,
-      "votantes":3,
+      "nombre":"nombre Cannabis",
+      "nota":1.81,
+      "posicion":3,
       "nsnc":2
    },
    {
-      "partido":"Falange Española",
-      "mediaAutoubicacion":9.04,
-      "votantes":3,
+      "nombre":"Falange Española",
+      "nota":9.04,
+      "posicion":3,
       "nsnc":0
    },
    {
-      "partido":"Democracia Nacional",
-      "mediaAutoubicacion":10,
-      "votantes":0,
+      "nombre":"Democracia Nacional",
+      "nota":10,
+      "posicion":0,
       "nsnc":0
    },
    {
-      "partido":"SAIn (Partido Solidaridad y Autogestión Internacionalista)",
-      "mediaAutoubicacion":5,
-      "votantes":1,
+      "nombre":"SAIn (nombre Solidaridad y Autogestión Internacionalista)",
+      "nota":5,
+      "posicion":1,
       "nsnc":0
    },
    {
-      "partido":"Otro",
-      "mediaAutoubicacion":3.07,
-      "votantes":108,
+      "nombre":"Otro",
+      "nota":3.07,
+      "posicion":108,
       "nsnc":5
    },
    {
-      "partido":"Voto nulo",
-      "mediaAutoubicacion":4.3,
-      "votantes":87,
+      "nombre":"Voto nulo",
+      "nota":4.3,
+      "posicion":87,
       "nsnc":20
    },
    {
-      "partido":"En blanco",
-      "mediaAutoubicacion":4.66,
-      "votantes":373,
+      "nombre":"En blanco",
+      "nota":4.66,
+      "posicion":373,
       "nsnc":116
    },
    {
-      "partido":"No votaría",
-      "mediaAutoubicacion":4.62,
-      "votantes":760,
+      "nombre":"No votaría",
+      "nota":4.62,
+      "posicion":760,
       "nsnc":638
    },
    {
-      "partido":"No sabe todavía",
-      "mediaAutoubicacion":4.59,
-      "votantes":2541,
+      "nombre":"No sabe todavía",
+      "nota":4.59,
+      "posicion":2541,
       "nsnc":786
    },
    {
-      "partido":"N.C.",
-      "mediaAutoubicacion":4.75,
-      "votantes":733,
+      "nombre":"N.C.",
+      "nota":4.75,
+      "posicion":733,
       "nsnc":340
    }
 ]
