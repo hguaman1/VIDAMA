@@ -1,0 +1,77 @@
+[
+   {
+      "	nombre":"Alejandra Cabrera",
+      "nota":5.96,
+      "ranking":6
+   },
+   {
+      "nombre":"Alice Cuper",
+      "nota":9.17,
+      "ranking":1
+   },
+   {
+      "nombre":"Andrea Aviles",
+      "nota":4.96,
+      "ranking":8
+   },
+   {
+      "nombre":"Carlos Guaman",
+      "nota":4.94,
+      "ranking":9
+   },
+   {
+      "nombre":"Diana Cordero",
+      "nota":6.14,
+      "ranking":5
+   },
+   {
+      "nombre":"Eduardo Bernal",
+      "nota":5.29,
+      "ranking":7
+   },
+   {
+      "nombre":"Elena Arias",
+      "nota":7.09,
+      "ranking":3
+   },
+   {
+      "nombre":"Erika Velez",
+      "nota":8.33,
+      "ranking":11
+   },
+   {
+      "nombre":"Henry Guaman",
+      "nota":2.0,
+      "ranking":15
+   },
+   {
+      "nombre":"Malena Idrovo",
+      "nota":3.81,
+      "ranking":11
+   },
+   {
+      "nombre":"Maricela Bermeo",
+      "nota":3.13,
+      "ranking":12
+   },
+   {
+      "nombre":"Sucety Chamorro",
+      "nota":4.66,
+      "ranking":10
+   },
+   {
+      "nombre":"Miguel Vazconez",
+      "nota":6.57,
+      "ranking":4
+   },
+   {
+      "nombre":"Naruto Uzumaki",
+      "nota":2.49,
+      "ranking":14
+   },
+   {
+      "nombre":"Sonia Bermeo",
+      "nota":2.92,
+      "ranking":13
+   }
+]
