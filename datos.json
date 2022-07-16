@@ -1,77 +1,92 @@
 [
    {
-      "nombre":"Alejandra Cabrera",
-      "nota":5.96,
-      "ranking":6
-   },
-   {
-      "nombre":"Alice Cuper",
-      "nota":9.17,
-      "ranking":1
-   },
-   {
-      "nombre":"Andrea Aviles",
-      "nota":4.96,
-      "ranking":8
-   },
-   {
-      "nombre":"Carlos Guaman",
-      "nota":4.94,
-      "ranking":9
-   },
-   {
-      "nombre":"Diana Cordero",
-      "nota":6.14,
-      "ranking":5
-   },
-   {
-      "nombre":"Eduardo Bernal",
-      "nota":5.29,
-      "ranking":7
-   },
-   {
-      "nombre":"Elena Arias",
+      "nombre":"PP",
       "nota":7.09,
-      "ranking":3
+      "posicion":2509,
+      "nsnc":302
    },
    {
-      "nombre":"Erika Velez",
-      "nota":8.33,
-      "ranking":11
-   },
-   {
-      "nombre":"Henry Guaman",
-      "nota":2.0,
-      "ranking":15
-   },
-   {
-      "nombre":"Malena Idrovo",
+      "nombre":"PSOE",
       "nota":3.81,
-      "ranking":11
+      "posicion":2330,
+      "nsnc":260
    },
    {
-      "nombre":"Maricela Bermeo",
-      "nota":3.13,
-      "ranking":12
+      "nombre":"IU",
+      "nota":3,
+      "posicion":518,
+      "nsnc":14
    },
    {
-      "nombre":"Sucety Chamorro",
+      "nombre":"UPyD",
       "nota":4.66,
-      "ranking":10
+      "posicion":35,
+      "nsnc":1
    },
    {
-      "nombre":"Miguel Vazconez",
-      "nota":6.57,
-      "ranking":4
+      "nombre":"Ciudadanos",
+      "nota":5.25,
+      "posicion":1869,
+      "nsnc":160
    },
    {
-      "nombre":"Naruto Uzumaki",
-      "nota":2.49,
-      "ranking":14
+      "nombre":"Podemos",
+      "nota":3.14,
+      "posicion":1751,
+      "nsnc":117
    },
    {
-      "nombre":"Sonia Bermeo",
+      "nombre":"Convergència (CDC)",
+      "nota":4.96,
+      "posicion":192,
+      "nsnc":16
+   },
+   {
+      "nombre":"ERC",
       "nota":2.92,
-      "ranking":13
+      "posicion":282,
+      "nsnc":8
+   },
+   {
+      "nombre":"ICV",
+      "nota":3.33,
+      "posicion":57,
+      "nsnc":1
+   },
+   {
+      "nombre":"Unió",
+      "nota":4.94,
+      "posicion":12,
+      "nsnc":1
+   },
+   {
+      "nombre":"PNV",
+      "nota":4.96,
+      "posicion":113,
+      "nsnc":14
+   },
+   {
+      "nombre":"EH Bildu",
+      "nota":2.49,
+      "posicion":125,
+      "nsnc":4
+   },
+   {
+      "nombre":"Geroa Bai",
+      "nota":3.13,
+      "posicion":14,
+      "nsnc":1
+   },
+   {
+      "nombre":"UPN",
+      "nota":6.57,
+      "posicion":4,
+      "nsnc":0
+   },
+   {
+      "nombre":"BNG",
+      "nota":3.17,
+      "posicion":19,
+      "nsnc":1
    }
 ]
