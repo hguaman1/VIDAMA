@@ -26,13 +26,13 @@
    {
       "nombre":"Diana Cordero",
       "nota":5.25,
-      "posicion":1869,
+      "posicion":900,
       "nsnc":160
    },
    {
       "nombre":"Eduardo Bernal",
       "nota":3.14,
-      "posicion":1751,
+      "posicion":800,
       "nsnc":117
    },
    {
@@ -84,7 +84,7 @@
       "nsnc":0
    },
    {
-      "nombre":"Naruto Uzumaki",
+      "nombre":"Sonia Bermeo",
       "nota":3.17,
       "posicion":19,
       "nsnc":1
