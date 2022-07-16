@@ -1,77 +1,92 @@
 [
-	{
-		"nombre": "Henry Guaman"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Alice Cuper"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Andrea Aviles"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Carlos Guaman"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Diana Cordero"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Eduardo Bernal"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Elena Aguirre"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Erika Velez"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Alejandra Cabrera"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Malena Idrovo"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Maricela Bermeo"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Sucety Chamorro"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Miguel Vazconez"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Naruto Uzumaqui"
-		"nota":5.96
-		"ranking":300
-	},
-	{
-		"nombre": "Henry Guaman"
-		"nota":5.96
-		"ranking":300
-	}
+   {
+      "nombre":"Alejandra Cabrera",
+      "nota":5.96,
+      "posicion":500,
+      "nsnc":202
+   },
+   {
+      "nombre":"Alice Cuper",
+      "nota":9.17,
+      "posicion":750,
+      "nsnc":160
+   },
+   {
+      "nombre":"Andrea Aviles",
+      "nota":4.96,
+      "posicion":400,
+      "nsnc":14
+   },
+   {
+      "nombre":"Carlos Guaman",
+      "nota":4.94,
+      "posicion":350,
+      "nsnc":1
+   },
+   {
+      "nombre":"Diana Cordero",
+      "nota":6.14,
+      "posicion":550,
+      "nsnc":160
+   },
+   {
+      "nombre":"Eduardo Bernal",
+      "nota":5.25,
+      "posicion":450,
+      "nsnc":117
+   },
+   {
+      "nombre":"Elena Arias",
+      "nota":7.09,
+      "posicion":650,
+      "nsnc":16
+   },
+   {
+      "nombre":"Erika Velez",
+      "nota":8.33,
+      "posicion":700,
+      "nsnc":8
+   },
+   {
+      "nombre":"Henry Guaman",
+      "nota":2,
+      "posicion":50,
+      "nsnc":1
+   },
+   {
+      "nombre":"Malena Idrovo",
+      "nota":3.81,
+      "posicion":250,
+      "nsnc":1
+   },
+   {
+      "nombre":"Maricela Bermeo",
+      "nota":3.13,
+      "posicion":200,
+      "nsnc":14
+   },
+   {
+      "nombre":"Sucety Chamorro",
+      "nota":2.92,
+      "posicion":100,
+      "nsnc":4
+   },
+   {
+      "nombre":"Miguel Vazconez",
+      "nota":4.66,
+      "posicion":300,
+      "nsnc":1
+   },
+   {
+      "nombre":"Naruto Uzumaki",
+      "nota":6.57,
+      "posicion":600,
+      "nsnc":0
+   },
+   {
+      "nombre":"Sonia Bermeo",
+      "nota":2.49,
+      "posicion":100,
+      "nsnc":1
+   }
 ]
