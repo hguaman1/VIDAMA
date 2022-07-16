@@ -1,92 +1,77 @@
 [
    {
-      "nombre":"Alejandra Cabrera",
+      "nombre":"Henry Guaman",
       "nota":5.96,
       "posicion":500,
-      "nsnc":202
    },
    {
       "nombre":"Alice Cuper",
       "nota":9.17,
-      "posicion":750,
-      "nsnc":160
+      "posicion":750
    },
    {
       "nombre":"Andrea Aviles",
       "nota":4.96,
-      "posicion":400,
-      "nsnc":14
+      "posicion":400
    },
    {
       "nombre":"Carlos Guaman",
       "nota":4.94,
-      "posicion":350,
-      "nsnc":1
+      "posicion":350
    },
    {
       "nombre":"Diana Cordero",
       "nota":6.14,
-      "posicion":550,
-      "nsnc":160
+      "posicion":550
    },
    {
       "nombre":"Eduardo Bernal",
       "nota":5.25,
-      "posicion":450,
-      "nsnc":117
+      "posicion":450
    },
    {
-      "nombre":"Elena Arias",
+      "nombre":"Elena Aguirre",
       "nota":7.09,
-      "posicion":650,
-      "nsnc":16
+      "posicion":650
    },
    {
       "nombre":"Erika Velez",
       "nota":8.33,
-      "posicion":700,
-      "nsnc":8
+      "posicion":700
    },
    {
-      "nombre":"Henry Guaman",
+      "nombre":"Alejandra Cabrera",
       "nota":2,
-      "posicion":50,
-      "nsnc":1
+      "posicion":50
    },
    {
       "nombre":"Malena Idrovo",
       "nota":3.81,
-      "posicion":250,
-      "nsnc":1
+      "posicion":250
    },
    {
       "nombre":"Maricela Bermeo",
       "nota":3.13,
-      "posicion":200,
-      "nsnc":14
+      "posicion":200
    },
    {
       "nombre":"Sucety Chamorro",
       "nota":2.92,
-      "posicion":100,
-      "nsnc":4
+      "posicion":100
    },
    {
       "nombre":"Miguel Vazconez",
       "nota":4.66,
-      "posicion":300,
-      "nsnc":1
+      "posicion":300
    },
    {
       "nombre":"Naruto Uzumaki",
       "nota":6.57,
-      "posicion":600,
-      "nsnc":0
+      "posicion":600
    },
    {
       "nombre":"Sonia Bermeo",
       "nota":2.49,
-      "posicion":100,
-      "nsnc":1
+      "posicion":100
    }
 ]
