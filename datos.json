@@ -2,91 +2,91 @@
    {
       "nombre":"Alejandra Cabrera",
       "nota":5.96,
-      "posicion":300,
+      "posicion":500,
       "nsnc":202
    },
    {
       "nombre":"Alice Cuper",
       "nota":9.17,
-      "posicion":50,
+      "posicion":750,
       "nsnc":160
    },
    {
       "nombre":"Andrea Aviles",
-      "nota":3,
-      "posicion":518,
+      "nota":4.96,
+      "posicion":400,
       "nsnc":14
    },
    {
       "nombre":"Carlos Guaman",
-      "nota":4.66,
-      "posicion":35,
+      "nota":4.94,
+      "posicion":350,
       "nsnc":1
    },
    {
       "nombre":"Diana Cordero",
-      "nota":5.25,
-      "posicion":900,
+      "nota":6.14,
+      "posicion":550,
       "nsnc":160
    },
    {
       "nombre":"Eduardo Bernal",
-      "nota":3.14,
-      "posicion":800,
+      "nota":5.25,
+      "posicion":450,
       "nsnc":117
    },
    {
       "nombre":"Elena Arias",
-      "nota":4.96,
-      "posicion":192,
+      "nota":7.09,
+      "posicion":650,
       "nsnc":16
    },
    {
       "nombre":"Erika Velez",
-      "nota":2.92,
-      "posicion":282,
+      "nota":8.33,
+      "posicion":700,
       "nsnc":8
    },
    {
       "nombre":"Henry Guaman",
-      "nota":3.33,
-      "posicion":57,
+      "nota":2,
+      "posicion":50,
       "nsnc":1
    },
    {
       "nombre":"Malena Idrovo",
-      "nota":4.94,
-      "posicion":12,
+      "nota":3.81,
+      "posicion":250,
       "nsnc":1
    },
    {
       "nombre":"Maricela Bermeo",
-      "nota":4.96,
-      "posicion":113,
+      "nota":3.13,
+      "posicion":200,
       "nsnc":14
    },
    {
       "nombre":"Sucety Chamorro",
-      "nota":2.49,
-      "posicion":125,
+      "nota":2.92,
+      "posicion":100,
       "nsnc":4
    },
    {
       "nombre":"Miguel Vazconez",
-      "nota":3.13,
-      "posicion":14,
+      "nota":4.66,
+      "posicion":300,
       "nsnc":1
    },
    {
       "nombre":"Naruto Uzumaki",
       "nota":6.57,
-      "posicion":4,
+      "posicion":600,
       "nsnc":0
    },
    {
       "nombre":"Sonia Bermeo",
-      "nota":3.17,
-      "posicion":19,
+      "nota":2.49,
+      "posicion":100,
       "nsnc":1
    }
 ]
