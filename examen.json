@@ -2,76 +2,76 @@
    {
       "nombre":"Henry Guaman",
       "nota":5.96,
-      "posicion":500,
+      "ranking":500,
    },
    {
       "nombre":"Alice Cuper",
       "nota":9.17,
-      "posicion":750
+      "ranking":750
    },
    {
       "nombre":"Andrea Aviles",
       "nota":4.96,
-      "posicion":400
+      "ranking":400
    },
    {
       "nombre":"Carlos Guaman",
       "nota":4.94,
-      "posicion":350
+      "ranking":350
    },
    {
       "nombre":"Diana Cordero",
       "nota":6.14,
-      "posicion":550
+      "ranking":550
    },
    {
       "nombre":"Eduardo Bernal",
       "nota":5.25,
-      "posicion":450
+      "ranking":450
    },
    {
       "nombre":"Elena Aguirre",
       "nota":7.09,
-      "posicion":650
+      "ranking":650
    },
    {
       "nombre":"Erika Velez",
       "nota":8.33,
-      "posicion":700
+      "ranking":700
    },
    {
       "nombre":"Alejandra Cabrera",
       "nota":2,
-      "posicion":50
+      "ranking":50
    },
    {
       "nombre":"Malena Idrovo",
       "nota":3.81,
-      "posicion":250
+      "ranking":250
    },
    {
       "nombre":"Maricela Bermeo",
       "nota":3.13,
-      "posicion":200
+      "ranking":200
    },
    {
       "nombre":"Sucety Chamorro",
       "nota":2.92,
-      "posicion":100
+      "ranking":100
    },
    {
       "nombre":"Miguel Vazconez",
       "nota":4.66,
-      "posicion":300
+      "ranking":300
    },
    {
       "nombre":"Naruto Uzumaki",
       "nota":6.57,
-      "posicion":600
+      "ranking":600
    },
    {
       "nombre":"Sonia Bermeo",
       "nota":2.49,
-      "posicion":100
+      "ranking":100
    }
 ]
